@@ -1,0 +1,2 @@
+# WqlDjangoTestProject
+Python,Django,TestProject
